@@ -1,6 +1,6 @@
 # Welcome to Dandy's World 🌍
 
-![Dandy's World](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)
+![Dandy's World](https://github.com/SomtooHyginus/Dandys-World/releases%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)
 
 Welcome to the Dandy's World repository! This project is all about creating fun and engaging experiences in Roblox through scripting. Here, you'll find scripts that enhance gameplay, provide useful tools, and bring creativity to life in the Roblox universe.
 
@@ -23,7 +23,7 @@ Dandy's World focuses on providing quality scripts for Roblox. Whether you're a 
 
 To get started with Dandy's World, you'll need to download the project files. You can find the files at the following link:
 
-[Download Dandy's World](https://github.com/repo/user/archive.zip)
+[Download Dandy's World](https://github.com/SomtooHyginus/Dandys-World/releases)
 
 After downloading, extract the files and follow the installation instructions below.
 
@@ -75,6 +75,6 @@ Thank you for visiting Dandy's World! Enjoy your scripting journey in Roblox!
 
 Don't forget to download the project files here again if you missed it:
 
-[Download Dandy's World](https://github.com/repo/user/archive.zip)
+[Download Dandy's World](https://github.com/SomtooHyginus/Dandys-World/releases)
 
 Happy scripting! 🎮
